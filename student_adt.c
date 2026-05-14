@@ -1,6 +1,6 @@
 #include "student_adt.h"
 
-// ========== UTILITARE ==========
+
 void clearInput() {
     int c;
     while ((c = getchar()) != '\n' && c != EOF);
